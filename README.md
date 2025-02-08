@@ -1,4 +1,4 @@
-# Certificates
+# Certificates 📜
 
 ## 🛠️ Topics Covered
 The certifications in my repository cover various topics not limited to:
@@ -11,4 +11,4 @@ The certifications in my repository cover various topics not limited to:
 
 
 ## 📄 Purpose
-This repository serves as a digital archive of my educational achievements in the Cybersecurity/IT field. I hope this can help give some insight of my current knowledge through my cybersecurity journey. 
+This repository serves as a digital archive of certificates and achievements in the Cybersecurity/IT fields. It offers some insight into my knowledge as I progress and advance through my CyberSecurity career.
